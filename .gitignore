@@ -4,5 +4,6 @@ __pycache__/
 .DS_Store
 .vscode/
 logs/
+regression_logs/
 .ipynb_checkpoints/
 .env
